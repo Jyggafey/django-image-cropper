@@ -19,7 +19,7 @@ setuptools.setup(
     description = 'This app allows upload and crop images',
     long_description = open('README.rst').read(),
     license = 'MIT license',
-    install_requires = ['django>=1.3.1', 'PIL'],
+    install_requires = ['django>=1.3.1', 'Pillow'],
     packages = setuptools.find_packages(),
     include_package_data=True,
     classifiers=[
