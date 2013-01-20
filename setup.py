@@ -13,8 +13,8 @@ setuptools.setup(
     version = version,
     author  = 'marazmiki',
     author_email = 'marazmiki@gmail.com',
-    url = 'http://bitbucket.org/marazmiki/django-image-cropper/',
-    download_url = 'http://bitbucket.org/marazmiki/django-image-cropper/get/tip.zip',
+    url = 'https://github.com/Jyggafey/django-image-cropper/',
+    download_url = 'https://github.com/Jyggafey/django-image-cropper/archive/master.zip',
 
     description = 'This app allows upload and crop images',
     long_description = open('README.rst').read(),
